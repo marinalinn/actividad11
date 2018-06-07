@@ -19,29 +19,10 @@ header div.texto{
 	font-family: 'NTR', sans-serif;
    
 }
-
-.container{
+.row{
 	
 	font-family: 'NTR', sans-serif;
    
-}
-
-.card-title{
-	font-size: 22px;
-	font-style: bold;
-	color: #00aa97;
-}
-
-.card-text{
-	color: #424242;
-}
-
-
-
-.logo {
-	height: auto;
-	width: 190px;
-	background-image: url(imagenes/logotrans.png);
 }
 
 footer {
@@ -58,6 +39,3 @@ footer .info{
 footer .form-group{
 	color:#fff;
 }
-
-
-
